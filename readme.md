@@ -1,5 +1,7 @@
 PHP Computer Inventory System
 
+credits https://github.com/zag2me/php-inventory
+
 Install
 
 1) Copy the 'Inventory.vbs' from the scripts folder to your network scripts folder
